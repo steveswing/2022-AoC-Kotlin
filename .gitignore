@@ -1,7 +1,6 @@
 .gradle
 .idea
 build
-src/**/*.txt
 *.iml
 *.ipr
 *.iws
